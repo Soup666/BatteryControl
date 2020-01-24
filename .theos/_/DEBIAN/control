@@ -1,0 +1,10 @@
+Package: com.soup.practice
+Name: Practice21.1.20
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Soup
+Author: Soup
+Section: Tweaks
+Version: 0.0.1-36+debug
+Installed-Size: 250
